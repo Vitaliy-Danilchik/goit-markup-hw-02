@@ -1,0 +1,90 @@
+
+/* heder style */
+
+    /* logo*/
+
+.logo{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #2196F3;
+    margin-left: 50px;
+    margin-top: 24px;
+    
+}
+
+.logo-studio {
+    color: #212121;
+}
+
+header {
+   /*display: flex;*/
+   height: 80px;
+   display: inline;
+    
+}
+
+    /*sate nav*/
+
+.menu-nav { 
+    list-style: none;
+    display: inline;
+    }
+    .site-nav {
+    margin-left: 200px;
+    margin-top: 0;
+    }
+    .auth-nav {
+    margin-left: 500px;
+    margin-top: 0;
+    }
+
+.site-nav .link-nav {
+    text-decoration: none;
+    color: #212121;
+    
+    
+}
+.site-nav .link-nav:hover,
+.site-nav .link-nav:focus {
+    color: #2196F3;
+}
+
+/* mail and telephon*/
+.auth-nav .link-mailtel {
+    text-decoration: none;
+    color: #757575;
+    list-style: none;
+    display: inline;
+}
+.auth-nav .link-mailtel:hover,
+.auth-nav .link-mailtel:focus {
+    color: #2196F3;
+}
+
+
+/*hero title*/
+
+.hero {
+background: #2F303A;
+height: 600px;
+}
+
+
+
+/* body */
+/*цвет основного текста #757575*/
+
+/*цвет вторичного текста #212121*/
+
+/*цвет основного акцента #2196F3*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    color: #757575;
+    width: 1600px;
+}
+
+
+
+
